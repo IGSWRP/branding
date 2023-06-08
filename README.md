@@ -55,3 +55,6 @@
 ![](/banner/banner_white_clean_red.png)
 ![](/banner/banner_white_clean_classic_blue.png)
 ![](/banner/banner_white_clean_classic_red.png)
+#### clean (colour text)
+![](/banner/banner_blue_clean_classic_blue.png)
+![](/banner/banner_red_clean_classic_red.png)
